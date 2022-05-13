@@ -70,35 +70,30 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>   
-
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
-
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/c%23.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/unity.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/bash.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/git.png"/>
 
 <br>
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
 
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+<!--  <a href="https://www.linkedin.com/in/satyam-goyal26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
+  </a> &nbsp;&nbsp; -->
+  <a href="https://twitter.com/CryptoJuanse">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://t.me/CryptoJuanse">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/telegram.png" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
+  <a href="mailto:jr262747@gmail.com" Subject=Quiero%20hablar%20contigo>
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
 
 <br><br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=CryptoJuanse)
 <!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
 ![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
 

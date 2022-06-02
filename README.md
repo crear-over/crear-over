@@ -13,15 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Juan Sebastian Romero Velez&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
+<!-- 
+Titulo 
+-->
+# Juan Sebastian Romero Velez&nbsp;<img src="./gifs/welcome.gif" width="450px">
 
 <!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
+Inicio de la descripcion
 -->
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="5px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="5px">
-
+### <img src="./gifs/saludo.gif" width="20px"> Hello world!&nbsp; 🔭 
 
 <p>
   <em>

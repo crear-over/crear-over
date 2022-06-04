@@ -22,25 +22,25 @@ Titulo
 Inicio de la descripcion
 -->
 
-### <img src="./gifs/saludo.gif" width="20px"> Hello world!&nbsp; 🔭 
+### 👋 Hello world!&nbsp; 🔭 
 
 <p>
   <em>
     I am studying systems engineer at <a href="https://www.udistrital.edu.co/inicio"> <b>Universidad Distrtial</b> Francisco Jose de Caldas</a>.
     From Colombia! Team member at <a href="https://glud.udistrital.edu.co/"> <b>GLUD</b></a><br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>focused</b>
-    to <b>teaching Open Source Technologies </b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>Free Software.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
+    <b>A friendly Neighbourhood Developer</b> 💻 and a <b>Learning    Enthusiast,</b>&nbsp;🔬 who is <b>focused</b>
+    to <b>teaching Open Source Technologies 🚀</b> and 
+    <b>Free Software🏅.</b>  <br>
     I Love <b>Unity Development</b> 😎🎮. <br> 
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Unity Development** and currently **learning XR With Unity Learn.** <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Video-Games, Augmented and Virtual Reality** <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" />
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- 🐒 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- 🐉 I’m **good** in **Unity Development** and currently **learning XR With Unity Learn.** 🦖 
+- 🦍 I Love **Video-Games, Augmented and Virtual Reality** 🦕
+- 🐧 Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
 

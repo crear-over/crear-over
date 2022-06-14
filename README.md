@@ -58,7 +58,7 @@ Inicio de la descripcion
 
 ## Languages and Tools:
 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/c%23.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/unity.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/bash.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/git.png"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/c%23.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/unity.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/bash.png"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/git.png"/> <img alt="Badge" style="float: left; margin-right: 10px;" width="100px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png"/>
 
 <br>
 

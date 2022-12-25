@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- 
 Titulo 
 -->
-# Juan Sebastian Romero Velez&nbsp;<img src="./gifs/welcome.gif" width="450px">
+# Juan Sebastian Romero Velez
 
 <!-- 
 Inicio de la descripcion
@@ -47,11 +47,11 @@ Inicio de la descripcion
 <br>
 
 
-![CryptoJuanse's github stats](https://github-readme-stats.vercel.app/api?username=CryptoJuanse&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![CryptoJuanse's github stats](https://github-readme-stats.vercel.app/api?username=crear-over&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJuanse&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crear-over&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>
@@ -65,16 +65,16 @@ Inicio de la descripcion
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-<!--  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+  <a href="https://www.linkedin.com/in/juan-sebastian-romero-velez/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp; -->
-  <a href="https://twitter.com/CryptoJuanse">
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/crear_over">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://t.me/CryptoJuanse">
+  <a href="https://t.me/crear_over">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/CryptoJuanse/CryptoJuanse/blob/master/stikers/telegram.png" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:jr262747@gmail.com" Subject=Quiero%20hablar%20contigo>
+  <a href="mailto:crear.over@gmail.com" Subject=Quiero%20hablar%20contigo>
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
